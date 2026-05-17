@@ -1,3 +1,5 @@
+Projeto Criado por Ademir José Wilsek Scarpim
+
 GERENCIADOR DE TAREFAS COLABORATIVO
 
 Projeto desenvolvido em PHP nativo com:
